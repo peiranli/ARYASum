@@ -1,0 +1,9 @@
+Compartments
+Customer_service
+Handles
+Looks
+None
+Price
+Protection
+Quality
+Size_Fit

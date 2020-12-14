@@ -1,0 +1,9 @@
+Build_Quality
+Connectivity
+Extra_functionality
+Feel_Comfort
+Layout
+Looks
+Noise
+None
+Price

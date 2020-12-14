@@ -1,0 +1,9 @@
+Accessories
+Build_Quality
+Customer_Service
+Ease_of_use
+Noise
+None
+Price
+Suction_Power
+Weight

@@ -1,0 +1,9 @@
+Apps_Interface
+Connectivity
+Customer_service
+Ease_of_use
+Image
+None
+Price
+Size_Look
+Sound

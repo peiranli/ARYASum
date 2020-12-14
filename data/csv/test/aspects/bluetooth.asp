@@ -1,0 +1,9 @@
+Battery
+Comfort
+Connectivity
+Durability
+Ease_of_use
+Look
+None
+Price
+Sound
